@@ -1,3 +1,2 @@
-# Main project For PythonCore: 
-## My TicTacToe game with AI opponent
+# Main project For PythonCore: <br />My TicTacToe game with AI opponent
  
